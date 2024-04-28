@@ -5,7 +5,7 @@
 ; Modified by:
 ; Created:     7/22/2023
 ; Copyright:   (c) [2023] Lukas Jackson
-; Licence:     GNU Public License (GPL)
+; Licence:     BSD-3
 ;/////////////////////////////////////////////////////////////////////////////
 
 ;Define the bit mode and set the starting address. [Boot->0x7c00]
